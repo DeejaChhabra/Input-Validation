@@ -3,7 +3,7 @@
 Produced a command-line driven telephone listing program. The program is capable of 
 receiving and storing a list of people with their full name and telephone. The program shall include 
 the following commands:
-• ADD “<Person>” “<Telephone #>” - Add a new person to the database
+• ADD “<Person>” “<Telephone #>”- Add a new person to the database
 • DEL “<Person>” - Remove someone from the database by name
 • DEL “<Telephone #>” - Remove someone by telephone #
 • LIST - Produce a list of the members of the database
